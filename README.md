@@ -1,1 +1,1 @@
-Face detection Application.
+All the application in this repository was built using python and openCv
