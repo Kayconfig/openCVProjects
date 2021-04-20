@@ -1,6 +1,5 @@
 #import important things
 import cv2
-import os
 import requests
 
 
